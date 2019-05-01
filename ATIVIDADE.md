@@ -16,8 +16,6 @@ Comentarios gerais sobre a atividade
 
 # Parte de código
 
-## Isso é uma função FuncTeste():
-
 ```csharp
 // Teste.cs
 public class Teste
