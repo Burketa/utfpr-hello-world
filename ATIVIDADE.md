@@ -18,8 +18,13 @@ Comentarios gerais sobre a atividade
 
 ## Isso é uma função FuncTeste():
 
-'''cs
-    public string FuncTeste() {
-      return "string de teste !";
+```csharp
+// Teste.cs
+public class Teste
+{
+    public static void Main()
+    {
+        System.Console.WriteLine("Teste !");
     }
-'''
+}
+```
